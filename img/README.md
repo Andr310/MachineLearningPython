@@ -4,6 +4,7 @@ Material gráfico de apoyo para los notebooks del curso. Cada ilustración exist
 
 | Tema | GIF | PNG |
 | --- | --- | --- |
+| El proceso de Machine Learning: así viaja el dato (también ProcesoML.mp4 para video) | ProcesoML.gif | ProcesoML.png |
 | Label Encoder: de texto a números | LabelEncoder.gif | LabelEncoder.png |
 | Train / Test split | TrainTestSplit.gif | TrainTestSplit.png |
 | Matriz de clasificación | MatrizClasificacion.gif | MatrizClasificacion.png |
