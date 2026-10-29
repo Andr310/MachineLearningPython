@@ -16,6 +16,10 @@ Material gráfico de apoyo para los notebooks del curso. Cada ilustración exist
 | Valores atípicos: ballena o error (Sesión 2) | ValoresAtipicos.gif | ValoresAtipicos.png |
 | WOE e IV: qué tan bien separa cada variable (Sesión 2) | WOE_IV.gif | WOE_IV.png |
 | Balanceo de clases: RUS, ROS y SMOTE (Sesión 2) | Balanceo_SMOTE.gif | Balanceo_SMOTE.png |
+| Regresión lineal: la recta y sus residuos (Sesión 3) | RegresionLineal.gif | RegresionLineal.png |
+| Métricas de regresión: MAE, RMSE y R² (Sesión 3) | MetricasRegresion.gif | MetricasRegresion.png |
+| Regularización: Ridge, Lasso y ElasticNet (Sesión 3) | Regularizacion.gif | Regularizacion.png |
+| Árboles de regresión y Random Forest: sesgo y varianza (Sesión 3) | ArbolRandomForest.gif | ArbolRandomForest.png |
 
 Uso en un notebook (Markdown):
 
