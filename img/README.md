@@ -11,6 +11,11 @@ Material gráfico de apoyo para los notebooks del curso. Cada ilustración exist
 | Matriz de clasificación | MatrizClasificacion.gif | MatrizClasificacion.png |
 | Pickle: guardar el modelo | PicklePython.gif | PicklePython.png |
 | Del modelo a la decisión | DecisionNegocio.gif | DecisionNegocio.png |
+| Análisis exploratorio de datos: seis etapas antes del algoritmo (Sesión 2) | AnalisisExploratorio.gif | AnalisisExploratorio.png |
+| Valores faltantes: por qué falta el dato y cómo imputarlo (Sesión 2) | ValoresFaltantes.gif | ValoresFaltantes.png |
+| Valores atípicos: ballena o error (Sesión 2) | ValoresAtipicos.gif | ValoresAtipicos.png |
+| WOE e IV: qué tan bien separa cada variable (Sesión 2) | WOE_IV.gif | WOE_IV.png |
+| Balanceo de clases: RUS, ROS y SMOTE (Sesión 2) | Balanceo_SMOTE.gif | Balanceo_SMOTE.png |
 
 Uso en un notebook (Markdown):
 
